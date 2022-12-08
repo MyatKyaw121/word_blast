@@ -1,9 +1,10 @@
 
 /**************************************************************
 
-* Description: This assignment is to read War and Peace.txt file, and count the number of words,
-* that have 6 or more characters in length. The goal of this assignment is to teach us the usage of 
-* threads, and the proper usage of its methods (pthread_create, pthread_join) etc, also to teach us 
+* Description: This program reads  War and Peace.txt file, and counts the number of words,
+* that have 6 or more characters in length. 
+* 
+* This program utilizes the usage of threads, and the proper usage of its methods (pthread_create, pthread_join) etc, and
 * the usage of mutex,  along with concepts such as critical section, atomicity,etc. 
 *
 **************************************************************/
